@@ -22,6 +22,7 @@
             </label>
             <input type="submit" value="Save preference" />
             <!-- TODO: save the value in cookie and use the selected theme -->
+            <!-- BONUS: check the selected theme -->
         </form>
     </main>
 </body>

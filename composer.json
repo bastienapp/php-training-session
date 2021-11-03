@@ -5,11 +5,8 @@
             "App\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "bastienwcs",
-            "email": "bastien.krettly@wildcodeschool.com"
-        }
-    ],
+    "scripts": {
+        "start": "php -S localhost:8000 -t public/"
+    },
     "require": {}
 }
